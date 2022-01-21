@@ -1,5 +1,5 @@
 {
-  "name": "teamProfileGenerator",
+  "name": "teamprofilegenerator",
   "version": "1.0.0",
   "description": "app to create team profile generator ",
   "main": "index.js",
@@ -7,7 +7,8 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
