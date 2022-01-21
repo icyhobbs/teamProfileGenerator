@@ -19,8 +19,10 @@ AS A manager, you will use a command-line application that takes in information 
 The user will clone the repository from [GitHub](#https://github.com/icyhobbs/teamProfileGenerator) and download [Node.](#https://nodejs.org/en/) This application also requires a file system and inquirer module. If testing is required, this application uses [Jest](#https://jestjs.io/)
 
 ## Usage
+
 <img width="1087" alt="HTML page" src="https://user-images.githubusercontent.com/90910609/150471035-afd7bf54-0db9-4a26-ae6d-66cc6d0f94c7.png">
 Output results!
+
 ## License
 
 This project is license under Open
